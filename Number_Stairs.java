@@ -13,7 +13,7 @@ public class Number_Stairs {
                 System.out.print(j);
             }
             // adds spaceing so the numbers don't get put on the same line
-            System.out.println("\n");
+            System.out.println(" ");
         };
 
     }
