@@ -12,7 +12,7 @@ public class Spaced_Stairs {
         int user_number = input.nextInt();
         int char_amount = user_number;
 
-        // each time loop runs it adds 1 to i and during loop add 1 to user number
+        // each time loop runs it adds 1 to i and during loop adds 1 to user number
         for (int i = 1; i < user_number+1; i++){
             // the amount of spaces that get printed out gets subtracted by 1 each time loop is run
             char_amount -= 1;
